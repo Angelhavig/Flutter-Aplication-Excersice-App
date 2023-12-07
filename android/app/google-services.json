@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217841718030",
+    "project_id": "login-adb3d",
+    "storage_bucket": "login-adb3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217841718030:android:e1dc536a6334cfab8fbd5f",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.app_ejercicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217841718030-7k6k8d8ktpkhkrmrndloi0ss834bkmcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKC9vI0DQrGVmBmdyZfRaVUOsMxgVdlyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217841718030-7k6k8d8ktpkhkrmrndloi0ss834bkmcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
